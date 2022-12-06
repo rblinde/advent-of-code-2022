@@ -1,0 +1,17 @@
+{
+  "name": "advent-of-code-2022",
+  "version": "1.0.0",
+  "description": "My solutions for Advent of Code 2022",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon src/main.ts",
+    "run": "ts-node src/main.ts"
+  },
+  "author": "rblinde",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.11.11",
+    "nodemon": "^2.0.20",
+    "ts-node": "^10.9.1"
+  }
+}
