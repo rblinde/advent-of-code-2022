@@ -1,8 +1,4 @@
-import { Solution } from "../types";
-
-interface NumberDirectory {
-  [index: string]: number;
-}
+import { Solution, NumberDirectory } from "../types";
 
 class Day02 implements Solution {
   readonly input: string;
